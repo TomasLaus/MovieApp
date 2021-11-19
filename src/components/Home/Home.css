@@ -1,0 +1,15 @@
+.contenedorHome { 
+    color: white !important;
+    width: 900px;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgba(39, 39, 39, 0.411);
+    margin-top: 100px;
+}
+
+.titleHome {
+    width: 600px;
+}
