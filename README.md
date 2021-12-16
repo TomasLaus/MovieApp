@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Tasty - Food Project </h1>
+<h1 align="center"> MovieApp </h1>
 
 <p align="center">
   <img height="500" width="80%" src="./src/assets/Captura.PNG" />
@@ -24,5 +24,3 @@ This project uses the [OMDB](https://www.omdbapi.com/) API, and from it to be ab
 #### Required technologies:
 - [ ] React
 - [ ] Redux
-
-
